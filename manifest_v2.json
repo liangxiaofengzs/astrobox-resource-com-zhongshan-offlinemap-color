@@ -5,13 +5,15 @@
     "name": "彩色地图",
     "description": "版本大优化！\n安装之后有发电的二维码，按照手表提示操作即可。请在爱发电购买，b站有教程，看完还不会的再加qq!\n联系作者:\n\nQQ:3810188167\n\n这是「小米手环10pro」的一个环间离线地图\n\n不联网，也能认路。​\n\n把全国 351 座城市装进手环。需要哪座城，用手机选好、蓝牙推过去，一两分钟传完。之后出门跑步、骑行、徒步，哪怕没信号、没流量、手机没电，抬腕就能看清自己站在哪条路上。\n\n它能做什么\n完全离线　地图存在手环本地，不依赖网络，不用开流量。\n\n一城一包，按需下载　全国 351 城，装你真正会去的那几个，不占多余空间。\n\n手机一键同步　选省份、选城市、点发送，进度条和手环端逐片对齐，传完自动登记生效。\n\n四级瓦片　缩小看全城轮廓，流畅不卡；放大看街巷走向，清晰锐利。\n\n实时定位与朝向　GPS 定位点落在图上，配八方位箭头指示你面朝的方向，稳定不旋转。\n\n标记与轨迹　常去的地方标一下，走过的路留成轨迹，下次照着走。\n\n直线导航　返程或去某个目标点，一条直线指给你，越走越近。",
     "preview": [
-      "media/2892.jpg",
-      "media/2893.jpg",
-      "media/2889.jpg",
-      "media/2894.jpg"
+      "media/2900.jpg",
+      "media/2901.jpg",
+      "media/2902.jpg",
+      "media/2903.jpg",
+      "media/2904.jpg",
+      "media/2899.jpg"
     ],
     "icon": "media/2891.jpg",
-    "cover": "media/2890.jpg",
+    "cover": "media/2898.jpg",
     "author": [
       {
         "name": "lxf2011",
@@ -28,9 +30,9 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.3",
-      "file_name": "downloads/huanjian-color-map-watch-1.0.3.rpk",
-      "versionCode": 3
+      "version": "1.0.4",
+      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.4.rpk",
+      "versionCode": 4
     }
   },
   "ext": {}
