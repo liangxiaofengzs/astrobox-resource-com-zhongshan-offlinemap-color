@@ -30,24 +30,24 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.4",
-      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.4.rpk",
-      "versionCode": 4
+      "version": "1.0.6",
+      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.6.rpk",
+      "versionCode": 6
     },
     "xmrw5": {
-      "version": "1.0.4",
-      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.4-xmrw5.rpk",
-      "versionCode": 4
+      "version": "1.0.6",
+      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.6.rpk",
+      "versionCode": 6
     },
     "xmrw5xring": {
-      "version": "1.0.4",
-      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.4-xmrw5.rpk",
-      "versionCode": 4
+      "version": "1.0.6",
+      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.6.rpk",
+      "versionCode": 6
     },
     "xmrw6": {
-      "version": "1.0.4",
-      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.4-xmrw5.rpk",
-      "versionCode": 4
+      "version": "1.0.6",
+      "file_name": "downloads/com.zhongshan.offlinemap.color.release.1.0.6.rpk",
+      "versionCode": 6
     }
   },
   "ext": {}
